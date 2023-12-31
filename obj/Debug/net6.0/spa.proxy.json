@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44427",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Hunter Peart\\ASP.NET\\E-Commerce\\E-Commerce\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
